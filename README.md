@@ -1,10 +1,12 @@
-DPA 是一个用于数据分析处理项目，他可以通过自定义规则，并使用相应的规则来处理。
+DPA Is a tool for data analysis processing that can be processed by customizing rules 
+and using the rules.In theory he is prepared to support any form of data in any form 
+of rule analysis and processing and output results.
 
-编译方式：
+Build instructions：
 1. cd .../bpa 
 2. mkdir build
 3. cd build
 4. cmake ..
 5. make
 6. ../bin/dpa
-此时dpa/下会生成两个新目录，bin和lib
+
