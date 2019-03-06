@@ -6,4 +6,5 @@ DPA 是一个用于数据分析处理项目，他可以通过自定义规则，�
 3. cd build
 4. cmake ..
 5. make
-此时bpa/下会生成两个新目录，bin和lib
+6. ../bin/dpa
+此时dpa/下会生成两个新目录，bin和lib
